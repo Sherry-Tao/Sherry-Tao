@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm a fresh graduate from Singapore Management University with a Bachelor of Science (Information Systems). My first major is Business Analytics and my second major is Accountancy. I plan to further my studies and want to work in the financial industry in the future.
+I like to use Python for data analytics because of the libraries that comes with it. 
+
+I am just starting out learning GitHub and am not too familiar with it yet! Please be patient with me~ 😄
+
+- 🔭 I’m currently working as an Analyst at aAdvantage Consulting
+- 📫 How to reach me: Telegram is probably the best way
+- ⚡ Fun fact: I played Mobile Legends competitively in my undergraduate days
 
 <!--
 **Sherry-Tao/Sherry-Tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
