@@ -4,7 +4,7 @@ I like to use Python for data analytics because of the libraries that comes with
 
 I am just starting out learning GitHub and am not too familiar with it yet! Please be patient with me~ 😄
 
-- 🔭 I’m currently working as an Analyst at aAdvantage Consulting
+- 🔭 I’m currently working as an Analyst at Investment Management Association of Singapore
 - 📫 How to reach me: Telegram is probably the best way
 - ⚡ Fun fact: I played Mobile Legends competitively in my undergraduate days
 
